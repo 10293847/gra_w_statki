@@ -7,3 +7,5 @@ wersja 1... raczej mało ciekawa - więc jeszcze nie zamieszczam niczego,
 bo kto by chciał strzelać do własnych jednomasztowców...
 
 no ale przynajmniej graficznie wygląda nienajgorzej :D
+
+http://pokazywarka.pl/hsn6yn/
