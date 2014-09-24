@@ -8,4 +8,6 @@ bo kto by chciał strzelać do własnych jednomasztowców...
 
 no ale przynajmniej graficznie wygląda nienajgorzej :D
 
+że niby miało być 1-10, a nie 0-9 ? nie miało :D
+
 http://pokazywarka.pl/hsn6yn/
