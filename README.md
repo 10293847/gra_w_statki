@@ -1,7 +1,7 @@
 gra_w_statki
 ============
 
-wersja beta
+wersja beta 
 
 z trybem do sprawdzania poprawności funkcji - strzelanie do własnych statków;
 
@@ -12,7 +12,10 @@ w trybie single player:
 ...i klasyczna naparzanka do ostatniego
 
 
-plany:
+
+
+
+plany=co-można-dodać-a-mi-się-nie-chce:
 
 - funkcja pozwalająca na ustawianie statków po swojemu;
 - "inteligentne strzelanie" komputera - jeśli namierzy okręt- zaczyna obstrzeliwać okolicę;
