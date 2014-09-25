@@ -18,5 +18,5 @@ plany:
 - "inteligentne strzelanie" komputera - jeśli namierzy okręt- zaczyna obstrzeliwać okolicę;
 - generowanie na planszy statków większych niż jednomasztowce - zgodnie z zasadami gry;
 
-- dodanie bajerów w stylu "fire for effect- każdy gracz może raz skorzystać z salwy 5 losowych strzałów; 
+- być może dodanie bajerów w stylu "masowej" salwy- każdy gracz może raz skorzystać z serii 5 zupełnie losowych strzałów;
 
