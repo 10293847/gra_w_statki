@@ -22,17 +22,9 @@ Plansza_Gracza::Plansza_Gracza()
         for (unsigned int y = 0 ; y < 10 ; y++ )
         {
             Plansza_Atak[x][y]=' ';
-        }
-    }
-
-    for (unsigned int x = 0 ; x < 10 ; x++ )
-    {
-        for (unsigned int y = 0 ; y < 10 ; y++ )
-        {
             Plansza_Obrona[x][y]=' ';
         }
     }
-
     unsigned int ile_pol = 25;
 
     for (unsigned int i=0; i<ile_pol;)
@@ -70,17 +62,9 @@ Plansza_Komputera::Plansza_Komputera()
         for (unsigned int y = 0 ; y < 10 ; y++ )
         {
             Plansza_Atak[x][y]=' ';
-        }
-    }
-
-    for (unsigned int x = 0 ; x < 10 ; x++ )
-    {
-        for (unsigned int y = 0 ; y < 10 ; y++ )
-        {
             Plansza_Obrona[x][y]=' ';
         }
     }
-
     unsigned int ile_pol = 25;
 
     for (unsigned int i=0; i<ile_pol;)
