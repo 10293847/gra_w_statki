@@ -74,7 +74,7 @@ void single_player()
 
     wybor = pl.czy_grac_dalej();
 
-        if(wybor == "t" || wybor == "mastershot" ||wybor == "iwin" || wybor == "iwin")
+        if(wybor == "t")
         {
             string a = pl.strzal_single_player();
             if (a == "mastershot")
