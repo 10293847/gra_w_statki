@@ -1,13 +1,22 @@
 gra_w_statki
 ============
 
-gra w fazie "produkcji" :D
+wersja beta
 
-wersja 1... raczej mało ciekawa - więc jeszcze nie zamieszczam niczego,
-bo kto by chciał strzelać do własnych jednomasztowców...
+z trybem do sprawdzania poprawności funkcji - strzelanie do własnych statków;
 
-no ale przynajmniej graficznie wygląda nienajgorzej :D
+nie ma jeszcze trybu multiplayer;
 
-że niby miało być 1-10, a nie 0-9 ? nie miało :D
+w trybie single player:
+-losowe rozmieszczenie -25 jednomasztowców, niezgodne z zasadami "normalnej" gry; jeszcze;
+...i klasyczna naparzanka do ostatniego
 
-http://pokazywarka.pl/hsn6yn/
+
+plany:
+
+- funkcja pozwalająca na ustawianie statków po swojemu;
+- "inteligentne strzelanie" komputera - jeśli namierzy okręt- zaczyna obstrzeliwać okolicę;
+- generowanie na planszy statków większych niż jednomasztowce - zgodnie z zasadami gry;
+
+- dodanie bajerów w stylu "fire for effect- każdy gracz może raz skorzystać z salwy 5 losowych strzałów; 
+
