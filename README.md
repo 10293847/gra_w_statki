@@ -8,7 +8,7 @@ z trybem do sprawdzania poprawności funkcji - strzelanie do własnych statków;
 nie ma jeszcze trybu multiplayer;
 
 w trybie single player:
--losowe rozmieszczenie -25 jednomasztowców, niezgodne z zasadami "normalnej" gry; jeszcze;
+-losowe rozmieszczenie 25 jednomasztowców, niezgodne z zasadami "normalnej" gry; jeszcze;
 ...i klasyczna naparzanka do ostatniego
 
 
